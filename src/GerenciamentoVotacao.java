@@ -48,7 +48,7 @@ public class GerenciamentoVotacao implements GerenciamentoVotacaoInterface {
 
                 cpfsComputados.add(cpfPessoaEleitora);
 
-                return; // encerra após votar
+                return;
             }
         }
     }
